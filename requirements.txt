@@ -67,7 +67,7 @@ scipy==1.1.0
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 six==1.11.0
-streamlit==0.47.4
+streamlit==0.48.0
 terminado==0.8.1
 testpath==0.3.1
 toml==0.10.0
