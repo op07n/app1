@@ -19,6 +19,7 @@ docutils==0.15.2
 entrypoints==0.2.3
 enum-compat==0.0.2
 future==0.17.1
+Gunicorn
 html5lib==1.0.1
 idna==2.8
 ipykernel==4.10.0
@@ -61,6 +62,7 @@ PyYAML==5.1.2
 pyzmq==17.1.2
 qtconsole==4.5.5
 requests==2.22.0
+redis
 s3transfer==0.2.1
 scikit-learn==0.20.0
 scipy==1.1.0
